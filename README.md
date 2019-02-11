@@ -4,7 +4,7 @@ Grails 2.* - 3.* RabbitMQ Plugin supported TLSv1.2
 
 Hello there,
 
-This repo has been copied from rabbitmq-native (  [http://plugins.grails.org/plugin/budjb/rabbitmq-native](http://plugins.grails.org/plugin/budjb/rabbitmq-native)  ).
+This repo has been copied from rabbitmq-native (  [https://github.com/budjb/grails-rabbitmq-native](https://github.com/budjb/grails-rabbitmq-native)  ).
 
 Configure your Grails project to use the TLSv1.2 protocol as follows.
 
