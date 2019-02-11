@@ -8,7 +8,8 @@ This repo has been copied from rabbitmq-native (  [http://plugins.grails.org/plu
 
 Configure your Grails project to use the TLSv1.2 protocol as follows.
 
-    application.groovy;  
+application.groovy; 
+     
     rabbitmq {  
         connections = [  
             [  
