@@ -1,6 +1,6 @@
 # SEM RabbitMQ
 
-Grails 2.* - 3.* RabbitMQ Plugin supported TLSv1.2
+Grails 2.* RabbitMQ Plugin supported TLSv1.2
 
 Hello there, 
 ### Clone a repository
