@@ -28,3 +28,6 @@ grails-app/conf/BuildConfig.groovy
 application.properties
 ._.DS_Store
 .idea
+*.zip
+*.sha1
+/web-app

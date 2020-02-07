@@ -26,7 +26,7 @@ class SemRabbitmqGrailsPlugin {
     /**
      * Version of the plugin.
      */
-    def version = "1.1.1-SNAPSHOT"
+    def version = "1.1.SEM"
 
     /**
      * The version or versions of Grails the plugin is designed for.
